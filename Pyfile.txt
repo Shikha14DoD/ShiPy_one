@@ -1,0 +1,3 @@
+Python Project
+
+Mobile app with Python using Kivy.
